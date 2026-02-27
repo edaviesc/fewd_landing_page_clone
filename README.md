@@ -97,4 +97,4 @@ GitHub: https://github.com/edaviesc
 
 ## 📄 License
 
-This project is for educational purposes only.
+This project is open-source and available for learning and educational purposes.
