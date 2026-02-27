@@ -53,7 +53,7 @@ The goal was to practice building a modern landing page using foundational front
 ---
 
 ## 📂 Project Structure
-''' plaintext
+```plaintext
 fewd_landing_page_clone/
 │
 ├── index.html
@@ -62,7 +62,7 @@ fewd_landing_page_clone/
 ├── images/
 │ └── (assets)
 └── README.md
-'''
+```
 
 ---
 
